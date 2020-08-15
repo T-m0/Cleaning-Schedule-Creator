@@ -1,4 +1,4 @@
-# Cleaning-Schedule-Creator
+# Cleaning Schedule Creator
 
 This script creates a simple cleaning schedule as a pandas dataframe, and writes it to a Microsoft Excel file.
 
